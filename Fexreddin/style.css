@@ -1,0 +1,94 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #1A1110;
+    font-family: 'Source Sans 3';
+}
+nav{
+    display: flex;
+    margin-top: 40px;
+}
+.buttonn{
+    border: none;
+    background-color: #1A1110;
+    color: white;
+    font-size: 17px;
+    margin-right: 20px;
+}
+.sss2{
+ position: absolute;
+ right: 5%;
+ top: 6%;
+}
+.loqo{
+    width: 200px;
+    margin-left: 70px;
+}
+.item1{
+    color: white;
+    display: flex;
+   direction: row-reverse;
+}
+.container1{
+    margin-left: 80px;
+}
+.h21{
+    font-size: xx-large;
+    letter-spacing: 2px;
+}
+.burger1{
+    order: 2; 
+    width: 500px;
+    position: absolute;
+    right: 30%;
+    
+}
+.burger2{
+     order: 2; 
+    width: 420px;
+    position: absolute;
+    right: 7%;
+}
+.search{
+    border: 2px lightsalmon solid;
+    border-radius: 10px 5px 10px 20px;
+    width: 270px;
+    height: 40px;
+    background-color: #1A1110;
+    padding: 15px;
+    color: aliceblue;
+}
+.search:focus{
+    outline: 1px lightsalmon solid;
+}
+.search::placeholder{
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+}
+.text{
+    margin-top: 50px;
+}
+.pp11{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.searchsubmit{
+  background-color: rgb(253, 83, 83);
+  color: white;
+  width: 100px;
+  border: none;
+  height: 40px;
+  border-radius: 15px 30px 15px 25px;
+  position: absolute;
+  left: 14%;
+}
+.pp3{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-size: 20px;
+}

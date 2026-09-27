@@ -1,0 +1,3 @@
+function sehifeniYenile() {
+    location.reload();
+}
