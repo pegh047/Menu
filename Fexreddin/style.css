@@ -33,6 +33,7 @@ nav{
     color: white;
     display: flex;
    direction: row-reverse;
+   height: 500px;
 }
 .container1{
     margin-left: 80px;
@@ -91,4 +92,67 @@ nav{
     margin-top: 15px;
     margin-left: 20px;
     font-size: 20px;
+}
+.feature{
+    text-align: center;
+    color: white;
+
+}
+.imgg2{
+        order: 2; 
+    width: 300px;
+    position: absolute;
+    left: 50%;
+    top: 95%;
+}
+.itemin22{
+    color: rgb(255, 95, 95);
+    display: flex;
+}
+.divh2{
+    margin-top: 80px;
+}
+.divh3{
+    color: white;
+}
+
+.divvvv{
+    position: absolute;
+    top: 105%;
+    color: white;
+    
+}
+.divvd{
+    position: absolute;
+    top: 105%;
+    left: 20%;
+    color: white;
+}
+.one{
+    margin-top: 20px;
+}
+.two{
+    margin-top: 20px;
+}
+.sss{
+    position: absolute;
+    top: 850px;
+    left: 200px;
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+     font-size: 23px;
+    font-weight: bold;
+}
+.bi{
+    font-size: 20px;
+}
+.imgg3{
+            order: 2; 
+    width: 300px;
+    position: absolute;
+    left: 73%;
+    top: 95%;
+    height: 300px;
+    border-radius: 10px;
 }
