@@ -103,7 +103,7 @@ nav{
     width: 300px;
     position: absolute;
     left: 50%;
-    top: 95%;
+    top: 48em;
 }
 .itemin22{
     color: rgb(255, 95, 95);
@@ -152,7 +152,7 @@ nav{
     width: 300px;
     position: absolute;
     left: 73%;
-    top: 95%;
+    top: 48em;
     height: 300px;
     border-radius: 10px;
 }
